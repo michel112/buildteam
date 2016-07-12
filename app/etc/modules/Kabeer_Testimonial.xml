@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Kabeer_Testimonial>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Kabeer_Testimonial>
+    </modules>
+</config> 
